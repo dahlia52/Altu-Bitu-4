@@ -1,4 +1,4 @@
-// 별자리 만들기
+// 별자리 만들기 - Prim 
 #include <iostream>
 #include <cmath>
 #include <queue>
